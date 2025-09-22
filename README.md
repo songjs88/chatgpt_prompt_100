@@ -159,8 +159,8 @@ cd chatgpt-prompts-100
 
 ## 📞 연락처
 
-- 📧 이메일: your.email@example.com
-- 🐦 트위터: [@yourusername](https://twitter.com/yourusername)
+- 📧 이메일: jay@connexionai.kr
+- 🎥 유튜브: [@CONNECT-AI-LAB](https://www.youtube.com/@CONNECT-AI-LAB)
 - 💬 디스코드: [커뮤니티 참여](https://discord.gg/yourcommunity)
 
 ---

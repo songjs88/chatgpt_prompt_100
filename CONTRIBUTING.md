@@ -152,7 +152,7 @@ Closes #이슈번호
 
 ## 📞 연락처
 
-- **프로젝트 메인테이너**: [이메일]
+- **프로젝트 메인테이너**: jay@connexionai.kr
 - **GitHub Issues**: 기술적 문의
 - **Discord**: 일반적인 논의
 
