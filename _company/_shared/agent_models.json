@@ -3,6 +3,7 @@
   "youtube": "qwen3.5:latest",
   "instagram": "qwen3.5:latest",
   "designer": "gemma4:e2b",
+  "developer": "gemma4:e2b",
   "business": "qwen3.5:latest",
   "secretary": "qwen3.5:latest",
   "editor": "qwen3.5:latest",
