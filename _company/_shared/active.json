@@ -16,5 +16,22 @@
   "designer": {
     "activatedAt": "2026-05-10T13:46:37.504Z",
     "seeded": true
-  }
+  },
+  "instagram": {
+    "activatedAt": "2026-05-12T12:27:14.629Z",
+    "seeded_v3": true
+  },
+  "business": {
+    "activatedAt": "2026-05-12T12:27:14.629Z",
+    "seeded_v3": true
+  },
+  "developer": {
+    "activatedAt": "2026-05-12T12:27:14.629Z",
+    "seeded_v3": true
+  },
+  "researcher": {
+    "activatedAt": "2026-05-12T12:27:14.629Z",
+    "seeded_v3": true
+  },
+  "_migrated_v3": true
 }
