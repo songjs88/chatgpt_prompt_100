@@ -64,3 +64,222 @@ _2026-05-09 20:32 · 최근 30일 · 영상 2개 기준_
 
 
 ---
+
+
+# 🎬 Spirit Flow Melodies
+_2026-05-10 19:02 · 최근 30일 분석 · 영상 2개_
+
+> **25명** 구독자 · **2.2K** 누적 조회 · **7개** 영상 · **12.9년** 운영
+> 핸들 `@spiritflowmelodies` · 🌍 US · 영상당 평균 **321** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 2개 (월 2.0개) | 🟡 보통 |
+| 조회수 중간값 | **104** | 최고 175 · 최저 34 |
+| 좋아요율 | **2.04%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **0.29%** | 🟡 보통 (업계 0.3~1%) |
+| 평균 길이 | 43분 56초 | 제목 평균 61자 |
+| Shorts | 1개 / 2 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 175 | 2 (1.1%) | 1 (0.6%) | 37초 | 2026-04-12(일) | 432Hz Deep Sleep & Stress Relief  #432hz #playlist |
+| 2🥶 | 34 | 1 (2.9%) | 0 (0.0%) | 1시간 27분 | 2026-04-12(일) | Whispers of the Eastern Cherry Blossom 🌸 432Hz Deep Sleep &  |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 175회 · 432Hz Deep Sleep & Stress Relief  #432hz #playlist
+
+> 📅 2026-04-12 (일요일 10시) · ⏱ 37초 · 👍 1.14% · 💬 0.57%
+> 🏷 `432Hz` `Sleep Music` `Deep Sleep` `Insomnia Relief` `Piano Music` …
+> 🔗 [영상 보기](https://youtu.be/hrW0CFJQWOY) · 🖼 [썸네일](https://i.ytimg.com/vi/hrW0CFJQWOY/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@SpiritFlowMelodies_ (👍0): Can't sleep tonight? 🌙 Let the cherry blossoms and 432Hz piano guide you to deep rest. 🌌 Watch the full 1-hour healing journey here:https://
+
+### 🥈 34회 · Whispers of the Eastern Cherry Blossom 🌸 432Hz Deep Sleep & Stress Relief
+
+> 📅 2026-04-12 (일요일 10시) · ⏱ 1시간 27분 · 👍 2.94% · 💬 0.00%
+> 🏷 `432Hz` `Sleep Music` `Deep Sleep` `Insomnia Relief` `Piano Music` …
+> 🔗 [영상 보기](https://youtu.be/WzQ8JKeyg7s) · 🖼 [썸네일](https://i.ytimg.com/vi/WzQ8JKeyg7s/mqdefault.jpg)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 🔑 **상위 영상 키워드**: `Hz` `Deep` `Sleep` `Stress` `Relief` `hz` `playlist` `Whispers`
+- 📝 **제목 길이**: 평균 61자 (최단 50자 · 최장 73자)
+- ⏱ **영상 길이**: 평균 43분 56초 · Shorts(60초 이하) 1/2개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔥 **떡상 패턴 복제** — `432Hz Deep Sleep & Stress Relief  #432hz` (175회). 같은 후크/포맷으로 후속편.**
+2. 💬 **댓글 유도 강화** — 현재 0.29% (업계 0.3~1%). 영상 중간 시청자 의견 질문 삽입.
+3. 🔑 **제목 키워드 활용** — 상위 영상의 `Hz, Deep, Sleep` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`Can`(1) · `sleep`(1) · `tonight`(1) · `Let`(1) · `cherry`(1) · `piano`(1) · `guide`(1) · `you`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---
+
+
+# 🎬 Spirit Flow Melodies
+_2026-05-10 19:50 · 최근 30일 분석 · 영상 2개_
+
+> **25명** 구독자 · **2.2K** 누적 조회 · **7개** 영상 · **12.9년** 운영
+> 핸들 `@spiritflowmelodies` · 🌍 US · 영상당 평균 **321** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 2개 (월 2.0개) | 🟡 보통 |
+| 조회수 중간값 | **104** | 최고 175 · 최저 34 |
+| 좋아요율 | **2.04%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **0.29%** | 🟡 보통 (업계 0.3~1%) |
+| 평균 길이 | 43분 56초 | 제목 평균 61자 |
+| Shorts | 1개 / 2 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 175 | 2 (1.1%) | 1 (0.6%) | 37초 | 2026-04-12(일) | 432Hz Deep Sleep & Stress Relief  #432hz #playlist |
+| 2🥶 | 34 | 1 (2.9%) | 0 (0.0%) | 1시간 27분 | 2026-04-12(일) | Whispers of the Eastern Cherry Blossom 🌸 432Hz Deep Sleep &  |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 175회 · 432Hz Deep Sleep & Stress Relief  #432hz #playlist
+
+> 📅 2026-04-12 (일요일 10시) · ⏱ 37초 · 👍 1.14% · 💬 0.57%
+> 🏷 `432Hz` `Sleep Music` `Deep Sleep` `Insomnia Relief` `Piano Music` …
+> 🔗 [영상 보기](https://youtu.be/hrW0CFJQWOY) · 🖼 [썸네일](https://i.ytimg.com/vi/hrW0CFJQWOY/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@SpiritFlowMelodies_ (👍0): Can't sleep tonight? 🌙 Let the cherry blossoms and 432Hz piano guide you to deep rest. 🌌 Watch the full 1-hour healing journey here:https://
+
+### 🥈 34회 · Whispers of the Eastern Cherry Blossom 🌸 432Hz Deep Sleep & Stress Relief
+
+> 📅 2026-04-12 (일요일 10시) · ⏱ 1시간 27분 · 👍 2.94% · 💬 0.00%
+> 🏷 `432Hz` `Sleep Music` `Deep Sleep` `Insomnia Relief` `Piano Music` …
+> 🔗 [영상 보기](https://youtu.be/WzQ8JKeyg7s) · 🖼 [썸네일](https://i.ytimg.com/vi/WzQ8JKeyg7s/mqdefault.jpg)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 🔑 **상위 영상 키워드**: `Hz` `Deep` `Sleep` `Stress` `Relief` `hz` `playlist` `Whispers`
+- 📝 **제목 길이**: 평균 61자 (최단 50자 · 최장 73자)
+- ⏱ **영상 길이**: 평균 43분 56초 · Shorts(60초 이하) 1/2개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔥 **떡상 패턴 복제** — `432Hz Deep Sleep & Stress Relief  #432hz` (175회). 같은 후크/포맷으로 후속편.**
+2. 💬 **댓글 유도 강화** — 현재 0.29% (업계 0.3~1%). 영상 중간 시청자 의견 질문 삽입.
+3. 🔑 **제목 키워드 활용** — 상위 영상의 `Hz, Deep, Sleep` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`Can`(1) · `sleep`(1) · `tonight`(1) · `Let`(1) · `cherry`(1) · `piano`(1) · `guide`(1) · `you`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---
+
+
+# 🎬 Spirit Flow Melodies
+_2026-05-10 20:04 · 최근 30일 분석 · 영상 2개_
+
+> **25명** 구독자 · **2.2K** 누적 조회 · **7개** 영상 · **12.9년** 운영
+> 핸들 `@spiritflowmelodies` · 🌍 US · 영상당 평균 **321** 조회
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 최근 30일 성과 한눈에
+
+| 지표 | 값 | 평가 |
+|---|---|---|
+| 업로드 | 2개 (월 2.0개) | 🟡 보통 |
+| 조회수 중간값 | **104** | 최고 175 · 최저 34 |
+| 좋아요율 | **2.04%** | 🟢 좋음 (업계 2~5%) |
+| 댓글율 | **0.29%** | 🟡 보통 (업계 0.3~1%) |
+| 평균 길이 | 43분 56초 | 제목 평균 61자 |
+| Shorts | 1개 / 2 | - |
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📺 영상별 상세 (조회수 순)
+| # | 조회수 | 좋아요 (율) | 댓글 (율) | 길이 | 발행 | 제목 |
+|---|---|---|---|---|---|---|
+| 1🔥 | 175 | 2 (1.1%) | 1 (0.6%) | 37초 | 2026-04-12(일) | 432Hz Deep Sleep & Stress Relief  #432hz #playlist |
+| 2🥶 | 34 | 1 (2.9%) | 0 (0.0%) | 1시간 27분 | 2026-04-12(일) | Whispers of the Eastern Cherry Blossom 🌸 432Hz Deep Sleep &  |
+
+## 🏆 TOP 3 — 무엇이 잘 됐나
+
+### 🥇 175회 · 432Hz Deep Sleep & Stress Relief  #432hz #playlist
+
+> 📅 2026-04-12 (일요일 10시) · ⏱ 37초 · 👍 1.14% · 💬 0.57%
+> 🏷 `432Hz` `Sleep Music` `Deep Sleep` `Insomnia Relief` `Piano Music` …
+> 🔗 [영상 보기](https://youtu.be/hrW0CFJQWOY) · 🖼 [썸네일](https://i.ytimg.com/vi/hrW0CFJQWOY/mqdefault.jpg)
+
+**💬 인기 댓글:**
+> _@SpiritFlowMelodies_ (👍0): Can't sleep tonight? 🌙 Let the cherry blossoms and 432Hz piano guide you to deep rest. 🌌 Watch the full 1-hour healing journey here:https://
+
+### 🥈 34회 · Whispers of the Eastern Cherry Blossom 🌸 432Hz Deep Sleep & Stress Relief
+
+> 📅 2026-04-12 (일요일 10시) · ⏱ 1시간 27분 · 👍 2.94% · 💬 0.00%
+> 🏷 `432Hz` `Sleep Music` `Deep Sleep` `Insomnia Relief` `Piano Music` …
+> 🔗 [영상 보기](https://youtu.be/WzQ8JKeyg7s) · 🖼 [썸네일](https://i.ytimg.com/vi/WzQ8JKeyg7s/mqdefault.jpg)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🔍 패턴 분석
+
+- 🔑 **상위 영상 키워드**: `Hz` `Deep` `Sleep` `Stress` `Relief` `hz` `playlist` `Whispers`
+- 📝 **제목 길이**: 평균 61자 (최단 50자 · 최장 73자)
+- ⏱ **영상 길이**: 평균 43분 56초 · Shorts(60초 이하) 1/2개
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎯 다음 액션 (우선순위)
+
+**1. 🔥 **떡상 패턴 복제** — `432Hz Deep Sleep & Stress Relief  #432hz` (175회). 같은 후크/포맷으로 후속편.**
+2. 💬 **댓글 유도 강화** — 현재 0.29% (업계 0.3~1%). 영상 중간 시청자 의견 질문 삽입.
+3. 🔑 **제목 키워드 활용** — 상위 영상의 `Hz, Deep, Sleep` 키워드를 다음 제목에 통합.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 💬 시청자가 남긴 키워드
+
+`Can`(1) · `sleep`(1) · `tonight`(1) · `Let`(1) · `cherry`(1) · `piano`(1) · `guide`(1) · `you`(1)
+
+> 시청자 머릿속에 남은 단어. 다음 영상 제목·썸네일·후크에 활용.
+
+
+---
