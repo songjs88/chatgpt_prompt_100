@@ -22,23 +22,24 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-### `revenue_pull`
+_⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 LLM 추론만 가능하고, 외부 API 호출이나 파일 생성은 아직 동작하지 않습니다._
+
+## 로드맵 (예정)
+
+### `revenue_pull` _(예정)_
 Stripe/Toss/PayPal 매출 데이터
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `analytics_pull`
+### `analytics_pull` _(예정)_
 Google Analytics / Plausible 트래픽
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `pnl_generator`
+### `pnl_generator` _(예정)_
 월별 P&L 마크다운 자동 생성
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
 
 ---

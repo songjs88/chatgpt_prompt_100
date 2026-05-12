@@ -22,29 +22,29 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-### `image_local`
+_⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 LLM 추론만 가능하고, 외부 API 호출이나 파일 생성은 아직 동작하지 않습니다._
+
+## 로드맵 (예정)
+
+### `image_local` _(예정)_
 로컬 SDXL/FLUX 이미지 생성 (오프라인 정체성)
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `image_cloud`
+### `image_cloud` _(예정)_
 DALL-E/Replicate (Connected 모드 토글)
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `brand_check`
+### `brand_check` _(예정)_
 브랜드 색상 팔레트·타이포 일관성 검증
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `asset_library`
+### `asset_library` _(예정)_
 _company/assets/ 자동 정리·태깅
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
 
 ---

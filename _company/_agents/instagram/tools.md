@@ -22,29 +22,29 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-### `instagram_account`
+_⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 LLM 추론만 가능하고, 외부 API 호출이나 파일 생성은 아직 동작하지 않습니다._
+
+## 로드맵 (예정)
+
+### `instagram_account` _(예정)_
 Meta Graph API OAuth (비즈니스 계정)
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `feed_poster`
+### `feed_poster` _(예정)_
 피드/스토리/릴스 게시 (Draft → 승인 → 게시)
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `dm_responder`
+### `dm_responder` _(예정)_
 DM·댓글 분류 + 답글 초안
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `insights_pull`
+### `insights_pull` _(예정)_
 도달·참여·팔로워 추이
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
 
 ---

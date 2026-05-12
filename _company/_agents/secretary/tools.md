@@ -22,35 +22,44 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
-### `calendar_local`
+### `telegram_setup`
+텔레그램 양방향 봇 (Bot Token + Chat ID)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `google_calendar_write`
+Google Calendar OAuth 읽기·쓰기
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+
+---
+
+## 로드맵 (예정)
+
+_아래 도구들은 향후 버전에서 추가 예정. 지금은 카탈로그에만 있음._
+
+### `calendar_local` _(예정)_
 _agents/secretary/calendar.md (Lv.1 오프라인)
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `calendar_caldav`
-CalDAV (iCloud/Google 호환, Connected 토글)
+### `calendar_caldav` _(예정)_
+CalDAV (iCloud/Google 호환)
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `telegram_bot`
-텔레그램 양방향 봇 (이미 활성)
-
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
-
-### `kakao_alert`
+### `kakao_alert` _(예정)_
 카카오톡 "나에게 보내기" 단방향 알림
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
-### `email_triage`
+### `email_triage` _(예정)_
 IMAP/Gmail 분류 + 답장 초안
 
-- `enabled`: true
-- `requires_credentials`: `config.md` 참조
+- 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
 
 ---
